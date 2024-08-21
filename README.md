@@ -78,7 +78,7 @@ O servidor é implementado como um serviço RPyC que gerencia arquivos e interes
 
 ## Contribuições
 
-@brunno-ian
-@ViniciusCosmo
+@brunno-ian (https://github.com/brunno-ian)
+@ViniciusCosmos (https://github.com/ViniciusCosmos)
 
 
