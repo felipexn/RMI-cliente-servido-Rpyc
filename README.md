@@ -78,8 +78,7 @@ O servidor é implementado como um serviço RPyC que gerencia arquivos e interes
 
 ## Contribuições
 
-Se você deseja contribuir para o projeto, por favor, faça um fork do repositório e envie um pull request com suas alterações.
+@brunno-ian
+@ViniciusCosmo
 
-## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE` para detalhes.
